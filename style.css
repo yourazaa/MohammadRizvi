@@ -532,10 +532,8 @@ section ul li.active{
 }
 
 
-/* whatsapp */
-
-/* for desktop */
-/* .whatsapp_float {
+whatsapp for desktop 
+ .whatsapp_float {
 	position:fixed;
 	width:60px;
 	height:60px;
@@ -557,7 +555,7 @@ section ul li.active{
 .whatsapp_float:hover{
     background-color: #DC143C;
     transition: 0.5s ease;
-} */
+}
 /* for mobile */
 @media screen and (max-width: 767px){
      .whatsapp-icon {
